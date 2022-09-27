@@ -6,7 +6,7 @@
 
 ## Description
 
-**特此声明**：项目用于学习交流，仅用于各项无异常时打卡，如有身体不适等情况还请自行如实打卡！
+**特此声明**：项目用于学习交流 ，仅用于各项无异常时打卡，如有身体不适等情况还请自行如实打卡！
 
 * [**本次更新内容**]由[@adamqqq](https://github.com/adamqqqplay)修复了Json解析问题，增强了隐私性
 * 由[@hidragonma](https://github.com/hidragonma)修复了[五一节后的打卡故障](https://github.com/hidragonma)，感谢贡献代码！
